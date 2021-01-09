@@ -4,3 +4,7 @@ this project is part of my learning process of git and github
 
 09_01_2021"edited
 ok well I learned about new things in git so this line is new edited line
+
+edit intended on dev
+I expect this to change on dev branch
+
